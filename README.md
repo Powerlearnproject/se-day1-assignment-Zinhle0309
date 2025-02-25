@@ -5,16 +5,17 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. It involves the design, development, testing, deployment, and maintenance of software products.
 
-Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
+-Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. It involves the design, development, testing, deployment, and maintenance of software products.
+
+-Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-Development of programming languages (e.g., Fortran, C)
-The establishment of software engineering as a discipline in the 1960s 
-The advent of structured programming in the 1970s
+-Development of programming languages (e.g., Fortran, C)
+-The establishment of software engineering as a discipline in the 1960s 
+-The advent of structured programming in the 1970s
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
@@ -42,7 +43,7 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
  - Integrated Development Environments (IDEs): Software suites that provide comprehensive tools for writing, debugging, and testing code (e.g., Visual Studio, Eclipse, IntelliJ IDEA).
- - 
+   
   - Version Control Systems (VCS): Software tools for tracking changes to source code and coordinating work among team members (e.g., Git, Subversion).
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
@@ -51,7 +52,7 @@ What are some common challenges faced by software engineers? Provide strategies 
   - Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
   - Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
 
-Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
+-Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
@@ -65,12 +66,12 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
-Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models.
-Imagine asking a vague question and getting a confusing answer. 
-Prompt engineering helps avoid that by making your questions clear and specific, so the AI understands exactly what you need.
+-Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models.
+
+-Imagine asking a vague question and getting a confusing answer. Prompt engineering helps avoid that by making your questions clear and specific, so the AI understands exactly what you need.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-Tell me about cats
-Tell me about the history of domestic cats
-You will get more focused response.
+-Tell me about cats
+-Tell me about the history of domestic cats
+-You will get more focused response.
